@@ -4,7 +4,11 @@ I'm a hobbyist developer who loves exploring new technologies and building cool 
 
 ## 🔭 Current Project
 
-I'm currently working on a Minecraft bot that loots end cities.
+I'm currently working on a Minecraft bot that loots end cities. It's been a fun challenge to build and I can't wait to share it with the world! Check out the [GitHub repo](https://github.com/username/repo) to learn more.
+
+## 📈 Stats
+
+<img align="center" alt="TerrificTable's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hks-hns&show_icons=true&theme=dracula&layout=compact" />
 
 ## 💡 Idea Sharing
 
@@ -13,3 +17,4 @@ Got an idea you want to share with me? I'm always open to hearing new ideas and 
 ## 📫 Contact Me
 
 Need to get in touch? Feel free to reach out to me at business@hks-hns.com for any business inquiries or just to say hello. I'd love to hear from you!
+
