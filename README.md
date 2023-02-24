@@ -8,7 +8,7 @@ I'm currently working on a Minecraft bot that loots end cities. It's been a fun 
 
 ## 📈 Stats
 
-<img align="center" alt="TerrificTable's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hks-hns&show_icons=true&theme=dracula&layout=compact" />
+<img align="center" alt="HKS-HNS's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hks-hns&show_icons=true&theme=dracula&layout=compact" />
 
 ## 💡 Idea Sharing
 
