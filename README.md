@@ -4,7 +4,7 @@ I'm a hobbyist developer who loves exploring new technologies and building cool 
 
 ## 🔭 Current Project
 
-I'm currently working on a Minecraft bot that loots end cities. It's been a fun challenge to build and I can't wait to share it with the world!
+I'm currently working on a /Back mod for Minecraft Fabric 1.19.3
 
 ## 📈 Stats
 
