@@ -1,7 +1,7 @@
 # Hi there, I'm Elias 👋
 
 I'm a hobbyist developer who loves exploring new technologies and building cool things. When I'm not coding, you can find me taking long walks or hiking in the mountains.
-
+ 
 ## 🔭 Current Project
 
 I'm currently working on a /Back mod for Minecraft Fabric 1.19.3
