@@ -4,7 +4,7 @@ I'm a hobbyist developer who loves exploring new technologies and building cool 
  
 ## 🔭 Current Project
 
-I'm currently working on a /Back mod for Minecraft Fabric 1.19.3
+I'm currently working on a Kit plugin for Minecraft Fabric 1.19.4
 
 ## 📈 Stats
 
