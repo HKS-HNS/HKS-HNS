@@ -4,7 +4,7 @@ I'm a hobbyist developer who loves exploring new technologies and building cool 
  
 ## 🔭 Current Project
 
-I'm currently working on a Admin Item plugin for Minecraft Fabric 1.19.4
+I'm currently working on a Admin Item plugin for Paper Minecraft 1.19.4
 
 ## 📈 Stats
 
