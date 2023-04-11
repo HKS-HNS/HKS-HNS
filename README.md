@@ -4,7 +4,7 @@ I'm a hobbyist developer who loves exploring new technologies and building cool 
  
 ## 🔭 Current Project
 
-I'm currently working on a Whitelist mod for fabric 1.19.3
+I'm currently working on a bot for Minecraft
 
 ## 📈 Stats
 
