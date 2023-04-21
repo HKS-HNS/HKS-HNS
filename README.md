@@ -4,7 +4,7 @@ I'm a hobbyist developer who loves exploring new technologies and building cool 
  
 ## 🔭 Current Project
 
-I'm currently working on a minecraft Ghost Mode mod
+I'm currently working on a minecraft Auto Craft bot
 
 ## 📈 Stats
 
