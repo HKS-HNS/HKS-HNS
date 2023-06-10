@@ -4,7 +4,7 @@ I'm a hobbyist developer who loves exploring new technologies and building cool 
  
 ## 🔭 Current Project
 
-I'm currently working on a minecraft teleport bot
+I'm currently working on a Minecraft POC backdoor
 
 ## 📈 Stats
 
