@@ -4,8 +4,7 @@ I'm a hobbyist developer who loves exploring new technologies and building cool 
  
 ## 🔭 Current Project
 
-I'm currently working on a Minecraft BugTesting mod.
-
+I'm currently working on a bot that sets up and manages Ender Pearl Stasis Chambers in Minecraft.
 ## 📈 Stats
 
 <img align="center" alt="HKS-HNS's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hks-hns&show_icons=true&theme=dracula&layout=compact" />
